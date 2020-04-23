@@ -1,0 +1,2 @@
+# manifest
+Project manifest
