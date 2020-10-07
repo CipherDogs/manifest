@@ -1,5 +1,7 @@
 # Manifest
 
+>Torrent is more than free movies, blockchain is more than money
+
 Now it’s hard to imagine a world without the Internet. Technology has greatly changed our world. For better or for worse, we will not judge. We are not here for this.
 
 Many want to subjugate these technologies. Various locks, total tracking and others. Only in recent times how much information has been made public.
